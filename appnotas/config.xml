@@ -5,7 +5,7 @@
     <author email="mac.carneiro@yahoo.com.br" href="https://marciocarneiro77.github.io">
         Marcio O. Carneiro
     </author>
-    <icon src="res/icon.png">
+    <icon src="res/icon.png" />
     <content src="index.html" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />

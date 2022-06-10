@@ -7,5 +7,5 @@ alert("Anotação salva \ncom sucesso")
 
 document.getElementById("botao-salvar").addEventListener("click",function(){
     SalvarAnotacao()
-    navigator.vibrate([1000,1000,1000]);
+    navigator.vibrate([1000,1000,]);
 })
